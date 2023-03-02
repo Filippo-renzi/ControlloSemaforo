@@ -1,0 +1,26 @@
+C:\OneDriveScuola\OneDrive - ispascalcomandini.gov.it\Develop\dotNet\gamon.IO_ControlloreSemafori\SorgenteControlloreSemafori_Esempio\Controllore\bin\Debug\DigitalPanel.exe
+C:\OneDriveScuola\OneDrive - ispascalcomandini.gov.it\Develop\dotNet\gamon.IO_ControlloreSemafori\SorgenteControlloreSemafori_Esempio\Controllore\bin\Debug\gamon.IO.Digital.dll
+C:\OneDriveScuola\OneDrive - ispascalcomandini.gov.it\Develop\dotNet\gamon.IO_ControlloreSemafori\SorgenteControlloreSemafori_Esempio\Controllore\bin\Debug\gamon.SimulationObjects.dll
+C:\OneDriveScuola\OneDrive - ispascalcomandini.gov.it\Develop\dotNet\gamon.IO_ControlloreSemafori\SorgenteControlloreSemafori_Esempio\Controllore\bin\Debug\Semafori.exe
+C:\OneDriveScuola\OneDrive - ispascalcomandini.gov.it\Develop\dotNet\gamon.IO_ControlloreSemafori\SorgenteControlloreSemafori_Esempio\Controllore\obj\x86\Debug\ControlloreEsempioSemafori.csproj.AssemblyReference.cache
+C:\OneDriveScuola\OneDrive - ispascalcomandini.gov.it\Develop\dotNet\gamon.IO_ControlloreSemafori\SorgenteControlloreSemafori_Esempio\Controllore\obj\x86\Debug\ControlloreEsempioSemafori.csproj.SuggestedBindingRedirects.cache
+C:\OneDriveScuola\OneDrive - ispascalcomandini.gov.it\Develop\dotNet\gamon.IO_ControlloreSemafori\SorgenteControlloreSemafori_Esempio\Controllore\obj\x86\Debug\ControlloreEsempioSemafori.csproj.CoreCompileInputs.cache
+C:\OneDriveScuola\OneDrive - ispascalcomandini.gov.it\Develop\dotNet\gamon.IO_ControlloreSemafori\SorgenteControlloreSemafori_Esempio\Controllore\obj\x86\Debug\ControlloreEsempioSemafori.csproj.CopyComplete
+C:\OneDriveScuola\OneDrive - ispascalcomandini.gov.it\Develop\dotNet\gamon.IO_ControlloreSemafori\SorgenteControlloreSemafori_Esempio\Controllore\bin\Debug\ControlloreEsempioSemafori.exe.config
+C:\OneDriveScuola\OneDrive - ispascalcomandini.gov.it\Develop\dotNet\gamon.IO_ControlloreSemafori\SorgenteControlloreSemafori_Esempio\Controllore\bin\Debug\ControlloreEsempioSemafori.exe
+C:\OneDriveScuola\OneDrive - ispascalcomandini.gov.it\Develop\dotNet\gamon.IO_ControlloreSemafori\SorgenteControlloreSemafori_Esempio\Controllore\bin\Debug\ControlloreEsempioSemafori.pdb
+C:\OneDriveScuola\OneDrive - ispascalcomandini.gov.it\Develop\dotNet\gamon.IO_ControlloreSemafori\SorgenteControlloreSemafori_Esempio\Controllore\obj\x86\Debug\ControlloreEsempioSemafori.exe
+C:\OneDriveScuola\OneDrive - ispascalcomandini.gov.it\Develop\dotNet\gamon.IO_ControlloreSemafori\SorgenteControlloreSemafori_Esempio\Controllore\obj\x86\Debug\ControlloreEsempioSemafori.pdb
+C:\Users\filippo.renzi\Desktop\gamon.IO_ControlloreSemafori\gamon.IO_ControlloreSemafori\SorgenteControlloreSemafori_Esempio\Controllore\bin\Debug\ControlloreEsempioSemafori.exe.config
+C:\Users\filippo.renzi\Desktop\gamon.IO_ControlloreSemafori\gamon.IO_ControlloreSemafori\SorgenteControlloreSemafori_Esempio\Controllore\bin\Debug\ControlloreEsempioSemafori.exe
+C:\Users\filippo.renzi\Desktop\gamon.IO_ControlloreSemafori\gamon.IO_ControlloreSemafori\SorgenteControlloreSemafori_Esempio\Controllore\bin\Debug\ControlloreEsempioSemafori.pdb
+C:\Users\filippo.renzi\Desktop\gamon.IO_ControlloreSemafori\gamon.IO_ControlloreSemafori\SorgenteControlloreSemafori_Esempio\Controllore\bin\Debug\DigitalPanel.exe
+C:\Users\filippo.renzi\Desktop\gamon.IO_ControlloreSemafori\gamon.IO_ControlloreSemafori\SorgenteControlloreSemafori_Esempio\Controllore\bin\Debug\gamon.IO.Digital.dll
+C:\Users\filippo.renzi\Desktop\gamon.IO_ControlloreSemafori\gamon.IO_ControlloreSemafori\SorgenteControlloreSemafori_Esempio\Controllore\bin\Debug\gamon.SimulationObjects.dll
+C:\Users\filippo.renzi\Desktop\gamon.IO_ControlloreSemafori\gamon.IO_ControlloreSemafori\SorgenteControlloreSemafori_Esempio\Controllore\bin\Debug\Semafori.exe
+C:\Users\filippo.renzi\Desktop\gamon.IO_ControlloreSemafori\gamon.IO_ControlloreSemafori\SorgenteControlloreSemafori_Esempio\Controllore\obj\x86\Debug\ControlloreEsempioSemafori.csproj.AssemblyReference.cache
+C:\Users\filippo.renzi\Desktop\gamon.IO_ControlloreSemafori\gamon.IO_ControlloreSemafori\SorgenteControlloreSemafori_Esempio\Controllore\obj\x86\Debug\ControlloreEsempioSemafori.csproj.SuggestedBindingRedirects.cache
+C:\Users\filippo.renzi\Desktop\gamon.IO_ControlloreSemafori\gamon.IO_ControlloreSemafori\SorgenteControlloreSemafori_Esempio\Controllore\obj\x86\Debug\ControlloreEsempioSemafori.csproj.CoreCompileInputs.cache
+C:\Users\filippo.renzi\Desktop\gamon.IO_ControlloreSemafori\gamon.IO_ControlloreSemafori\SorgenteControlloreSemafori_Esempio\Controllore\obj\x86\Debug\ControlloreEsempioSemafori.csproj.CopyComplete
+C:\Users\filippo.renzi\Desktop\gamon.IO_ControlloreSemafori\gamon.IO_ControlloreSemafori\SorgenteControlloreSemafori_Esempio\Controllore\obj\x86\Debug\ControlloreEsempioSemafori.exe
+C:\Users\filippo.renzi\Desktop\gamon.IO_ControlloreSemafori\gamon.IO_ControlloreSemafori\SorgenteControlloreSemafori_Esempio\Controllore\obj\x86\Debug\ControlloreEsempioSemafori.pdb

@@ -1,0 +1,24 @@
+﻿22	Usato	Stato	Colore	Descrizione	CanalePLC	Simbolo	IsInput	Manuale
+0	True	False	0	Presenza Est dritto			False	False
+1	True	False	0	Presenza Est sinistra			False	False
+2	True	False	0	Presenza Ovest			False	False
+3	True	False	0	Presenza Sud			False	False
+4	True	False	0	Coda Piena SUD			False	False
+5	True	False	0	Coda piena EST Dritto			False	False
+6	True	False	0	Coda piena EST Sinistra			False	False
+7	True	False	0	Coda piena OVEST			False	False
+8	False	False	0	Canale8			True	False
+9	False	False	0	Canale9			True	False
+10	False	False	0	Canale10			True	False
+11	True	False	3	EST Verde Dritto			True	False
+12	True	False	5	EST Freccia Verde sinistra			True	False
+13	True	False	3	OVEST Verde			True	False
+14	True	False	3	SUD verde			True	False
+15	True	False	0	EST rosso			True	False
+16	True	False	0	OVEST rosso			True	False
+17	True	False	0	SUD rosso			True	False
+18	True	False	2	EST giallo			True	False
+19	True	False	2	OVEST giallo			True	False
+20	True	False	2	EST sinistra giallo			True	False
+21	True	False	2	SUD giallo			True	False
+22	True	False	0	EST SINISTRA rosso			True	False

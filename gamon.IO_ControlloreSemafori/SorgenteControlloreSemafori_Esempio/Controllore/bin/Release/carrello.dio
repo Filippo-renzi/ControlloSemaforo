@@ -1,0 +1,17 @@
+﻿15	Usato	Stato	Colore	Descrizione	CanalePLC	Simbolo	IsInput	Manuale
+0	True	False	0	Finecorsa lato container S1			False	False
+1	True	False	0	Finecorsa lato scarico S2			False	False
+2	True	False	0	Sensore presenza pezzo S3			False	False
+3	True	False	0	Segnalazione interrupt			False	False
+4	False	False	0	NON CONNESSO			True	False
+5	False	False	0	NON CONNESSO			True	False
+6	False	False	0	NON CONNESSO			True	False
+7	False	False	0	NON CONNESSO			True	False
+8	False	False	0	NON CONNESSO			True	False
+9	False	False	0	NON CONNESSO			True	False
+10	False	False	0	NON CONNESSO			True	False
+11	True	False	0	Motore ON			True	False
+12	True	False	1	Movimento verso container (S1)			True	False
+13	True	False	2	Apri paratia su container			True	False
+14	False	False	0	NON CONNESSO			True	False
+15	True	False	5	Apri paratia su carrello			True	False
